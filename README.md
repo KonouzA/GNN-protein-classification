@@ -41,7 +41,7 @@ Each model includes:
 ## 📁 Files
 
 - `3_Graph_Classification.ipynb` – Main code notebook with experiments and results
-- `GNNs_CW2_Report.pdf` – Detailed write-up with architecture explanations and analysis
+- `GNNs_Report.pdf` – Detailed write-up with architecture explanations and analysis
 
 ## 📦 Installation
 
